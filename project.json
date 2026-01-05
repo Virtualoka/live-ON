@@ -12,3 +12,29 @@
         "primary": "Anima",
         "description": "Main release format – anima (Indonesian-original animated series, likely 2D or hybrid style, episodic or short-season format). 'Anima' is the project's custom term for animation, positioning it as Indonesia's equivalent cultural medium to cartoon and anime."
       },
+      {
+        "secondary": "Rita",
+	    "description": "Live comic / dynamic sequential art adaptation released alongside or following the anima (primarily digital-style, with options for print/static fallback). Panels or elements use animated image formats like animated WebP or GIF for subtle motion — breathing characters, gentle expressions, flowing hair, environmental details, or emotional micro-animations — bringing the comic 'to life' without becoming full video or requiring playback controls. 'Rita' is the project's custom coined term for this enhanced comic medium, establishing it as Indonesia's equivalent to comic, manga, and manhwa/webtoon, but special in its 'live' quality: sequential storytelling that subtly animates on the page for deeper emotional immersion and warmth."
+      },
+	  {
+		"tertiary": "Novna",
+		"description": "Hybrid novel format – novna (from 'NOVel warNA' = novel + illustration/color/art). Combines prose storytelling with integrated illustrations, light comic panels/sequences, and limitless interactive possibilities via QR codes linking to anima clips, soundscapes, mini-games, or extended content. 'Novna' is the project's custom term for an enhanced, multimedia-rich illustrated novel, creating a distinctly Indonesian medium that blends text, art, and digital interactivity beyond traditional light novels."
+	  },
+	  {
+		"quaternary": "Novil",
+		"description": "Light novel format – novil (from 'NOVel kecIL' = small/light novel). Focuses on concise, fast-paced prose storytelling with minimal illustrations (occasional spot art or chapter headers), keeping it lite, accessible, and quick to read. May include optional QR codes for bonus content. 'Novil' is the project's custom term for a streamlined, lightweight novel equivalent, parallel to global 'light novel' traditions but rooted in Indonesian brevity and emotional warmth."
+	  },
+	  {
+		"interactive": "Novis",
+		"description": "Visual novel / interactive game format – novis (from 'NOVel VISual'). Indonesian-original visual novel with branching narratives, character sprites, backgrounds in rita/anima-inspired art style, choices affecting sibling bonds and endings, plus voice acting and music. 'Novis' is the project's custom term for visual novel, establishing it as Indonesia's parallel to global visual novels while emphasizing family healing and personal growth themes."
+	  }
+    ],
+    "release_format_note": "This project pioneers Indonesian-original media formats: 'anima' (animation) as the core/primary medium and 'rita' (comic) as the complementary/expansive version. The goal is to create history by building globally recognizable Indonesian terms parallel to Japan's 'anime' and 'manga'.",
+    "branding_note": "Anima and rita are intentional coined terms created for this project to give Indonesian animation and comics their own identity and legacy, emphasizing cultural ownership, emotional storytelling, and sibling/family themes rooted in contemporary Indonesia."
+  },
+  },
+  "premise": {
+    "core_story": "The story follows a small family of four siblings who have recently lost both parents. Despite the eldest sibling Elang being unemployed, the family remains financially stable due to inheritance, savings, or other undisclosed means. The narrative explores their daily struggles, emotional healing, sibling bonds, personal growth, and support from friends.",
+    "tone": "Warm, bittersweet, realistic, with moments of humor and hope",
+    "setting": "Contemporary Indonesia (likely urban or suburban, with cultural elements from Java or mixed regions)",
+  },
